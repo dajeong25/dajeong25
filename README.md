@@ -14,7 +14,7 @@
   <div/>
 <br>
     
-[![Dajeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dajoeng&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dajeong25)
+[![Dajeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dajeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dajeong25)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dajeong25)](https://github.com/dajeong25/github-readme-stats)
   
 <div/>
