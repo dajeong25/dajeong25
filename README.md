@@ -13,8 +13,5 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
   <div/>
 <br>
-    
-[![Dajeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dajeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dajeong25)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dajeong25)](https://github.com/dajeong25/github-readme-stats)
-  
+
 <div/>
